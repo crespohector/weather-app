@@ -28,6 +28,6 @@ Users are able to see the current weather and the weather forecast for the next 
 - React.js
 
 ### Weather API documentation
-- (https://www.weather.gov/documentation/services-web-api)
+- https://www.weather.gov/documentation/services-web-api
 
 ## Installation 
