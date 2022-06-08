@@ -8,10 +8,12 @@ Users are able to see the current weather and the weather forecast for the next 
 ## Screenshots
 
 ## Table of content
-- [Technologies Used](https://github.com/crespohector/weather-forecast-website/edit/main/README.md)
-- - [Backend](https://github.com/crespohector/weather-forecast-website/edit/main/README.md)
-- - [Frontend](https://github.com/crespohector/weather-forecast-website/edit/main/README.md)
-- [Frontend](https://github.com/crespohector/weather-forecast-website/edit/main/README.md)
+- [Technologies Used](https://github.com/crespohector/weather-forecast-website/blob/main/README.md#technologies-used)
+  - [Backend](https://github.com/crespohector/weather-forecast-website/blob/main/README.md#backend)
+  - [Frontend](https://github.com/crespohector/weather-forecast-website/blob/main/README.md#frontend)
+- [Weather API documentation](https://github.com/crespohector/weather-forecast-website/blob/main/README.md#weather-api-documentation)
+- [Installation](https://github.com/crespohector/weather-forecast-website/blob/main/README.md#installation)
+
 
 ## Technologies Used
 
