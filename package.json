@@ -1,0 +1,20 @@
+{
+  "name": "weather-forecast-website",
+  "version": "1.0.0",
+  "description": "View weather of current day and weather forecasts of next 7 days",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crespohector/weather-app.git"
+  },
+  "keywords": ["Weather"],
+  "author": "Hector",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crespohector/weather-app/issues"
+  },
+  "homepage": "https://github.com/crespohector/weather-app#readme"
+}

@@ -1,0 +1,51 @@
+{
+    "NewYorkCity": {
+        "latitude": 40.7166638,
+        "longitude": -74.0,
+        "office": "test",
+        "gridx": "x",
+        "gridy": "y"
+    },
+    "Miami": {
+        "latitude": 25.785996856,
+        "longitude": -80.221165782,
+        "office": "test",
+        "gridx": "x",
+        "gridy": "y"
+    },
+    "LasVegas": {
+        "latitude": 36.176,
+        "longitude": -115.137,
+        "office": "test",
+        "gridx": "x",
+        "gridy": "y"
+    },
+    "SiliconValley": {
+        "latitude": 37.37,
+        "longitude": -122.04,
+        "office": "test",
+        "gridx": "x",
+        "gridy": "y"
+    },
+    "Austin": {
+        "latitude": 30.4882,
+        "longitude": -97.7618,
+        "office": "test",
+        "gridx": "x",
+        "gridy": "y"
+    },
+    "Honolulu": {
+        "latitude": 21.315603,
+        "longitude": -157.858093,
+        "office": "test",
+        "gridx": "x",
+        "gridy": "y"
+    },
+    "London": {
+        "latitude": 51.509865,
+        "longitude": -0.118092,
+        "office": "test",
+        "gridx": "x",
+        "gridy": "y"
+    }
+}
