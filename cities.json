@@ -20,13 +20,6 @@
         "gridx": "x",
         "gridy": "y"
     },
-    "SiliconValley": {
-        "latitude": 37.37,
-        "longitude": -122.04,
-        "office": "test",
-        "gridx": "x",
-        "gridy": "y"
-    },
     "Austin": {
         "latitude": 30.4882,
         "longitude": -97.7618,
