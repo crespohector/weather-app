@@ -1,0 +1,19 @@
+.navbar {
+    border: 1px solid black;
+    /* border-bottom: 1px solid rgb(235, 229, 229); */
+    display: flex;
+    justify-content: space-around;
+}
+
+.popular-city {
+    border: 1px solid red;
+}
+
+.navbar__label {
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+
+.new-city {
+    border: 1px solid blue;
+}

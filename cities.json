@@ -33,12 +33,5 @@
         "office": "test",
         "gridx": "x",
         "gridy": "y"
-    },
-    "London": {
-        "latitude": 51.509865,
-        "longitude": -0.118092,
-        "office": "test",
-        "gridx": "x",
-        "gridy": "y"
     }
 }
