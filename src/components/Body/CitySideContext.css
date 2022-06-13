@@ -1,0 +1,42 @@
+.city-wrapper {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.city-wrapper > div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+    padding: 20px 0px;
+}
+
+.city__span-name {
+    font-size: 1.8rem;
+    font-weight: 400;
+    margin-bottom: 8px;
+}
+
+.city__img {
+
+}
+
+.city__span-degree {
+    font-size: 1.6rem;
+    font-weight: 600;
+}
+
+.city__span-forecast {
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+
+.city__span-wind-label {
+    font-size: 1rem;
+    margin-top: 8px;
+    color: rgb(106, 105, 105);
+}
+
+.city__span-wind {
+    font-size: 1.1rem;
+}
